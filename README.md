@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my master's degree in Information Systems
+- 🌱 I’m currently learning how to use GitHub and about usability and accessibility of information systems :)
+- 😄 Pronouns: She/Her
+
 <!--
 **TidalLilac/TidalLilac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
